@@ -16,22 +16,20 @@
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-size: 13px;
     font-weight: 500;
-    color: var(--White);
 }
 
 
 @media (max-width: 375px) {
     main {
         padding: 15px;
+        background-color: var(--Light-grayish-blue);
     }
 
     .testimonialsContainer {
-        background-color: var(--Moderate-violet);
-        background-image: url("./images/bg-pattern-quotation.svg");
-        background-repeat: no-repeat;
-        background-position: 90% 0;
         border-radius: 10px;
         padding: 15px;
+        margin: 25px 0;
+        color: var(--White);
     }
 
     .peoplePresentation {
@@ -59,6 +57,21 @@
         opacity: 70%;
     }
 
+    #danielContainer {
+        background-color: var(--Moderate-violet);
+        background-image: url("./images/bg-pattern-quotation.svg");
+        background-repeat: no-repeat;
+        background-position: 90% 0;
+    }
+
+    #jonathanContainer {
+        background-color: var(--Very-dark-grayish-blue);
+    }
+
+    #jeanetteContainer {
+        color: var(--Very-dark-blackish-blue);
+        background-color: var(--White);
+    }
 }
 
 @media (max-width: 1440px) {
