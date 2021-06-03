@@ -57,18 +57,27 @@
         opacity: 70%;
     }
 
-    #danielContainer {
+    #firstTestimonial {
         background-color: var(--Moderate-violet);
         background-image: url("./images/bg-pattern-quotation.svg");
         background-repeat: no-repeat;
         background-position: 90% 0;
     }
 
-    #jonathanContainer {
+    #secondTestimonial {
         background-color: var(--Very-dark-grayish-blue);
     }
 
-    #jeanetteContainer {
+    #thirdTestimonial {
+        color: var(--Very-dark-blackish-blue);
+        background-color: var(--White);
+    }
+
+    #fourthTestimonial {
+        background-color: var(--Very-dark-blackish-blue);
+    }
+
+    #fifthTestimonial {
         color: var(--Very-dark-blackish-blue);
         background-color: var(--White);
     }
