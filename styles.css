@@ -113,7 +113,7 @@ section {
     section {
         display: grid;
         grid-template-columns: 1fr ;
-        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+        grid-template-rows: auto;
         grid-gap: 15px;
         grid-template-areas: "t01"
                              "t02"
