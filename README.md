@@ -25,8 +25,6 @@ Users should be able to:
 ### Screenshot
 ####Desktop version
 ![Final Result Desktop](finalResult/finalResultDesktop.png)
-#### Mobile version
-![Final Result Mobile](finalResult/finalResultMobile.png)
 
 ### Links
 
