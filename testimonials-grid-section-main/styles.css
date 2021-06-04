@@ -27,6 +27,10 @@ main {
     background-color: var(--Light-grayish-blue);
 }
 
+.attribution {
+    margin-top: 15px;
+}
+
 .testimonialsContainer {
     border-radius: 10px;
     padding: 15px;
@@ -99,6 +103,9 @@ section {
 }
 
 @media (max-width: 375px) {
+    main {
+        height: 100%;
+    }
     section {
         display: grid;
         grid-template-columns: 1fr ;
