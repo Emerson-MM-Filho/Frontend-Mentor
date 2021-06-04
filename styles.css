@@ -95,12 +95,13 @@ main {
 }
 
 section {
-    width: 70%;
+    width: 80%;
     margin: auto;
 
     display: grid;
     grid-gap: 30px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
     grid-template-areas: "t01 t01 t02 t03"
                          "t04 t05 t05 t03";
 }
