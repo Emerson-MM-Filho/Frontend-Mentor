@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Emerson-MM-Filho/Testimonials-grid-section)
-- Live Site URL: [Add live site URL here](https://emerson-mm-filho.github.io/Testimonials-grid-section/)
+- [Repository](https://github.com/Emerson-MM-Filho/Testimonials-grid-section)
+- [Live Site](https://emerson-mm-filho.github.io/Testimonials-grid-section/)
 
 ## My process
 
