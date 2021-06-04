@@ -23,15 +23,13 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-####Desktop version
+#### Desktop version
 ![Final Result Desktop](finalResult/finalResultDesktop.png)
-#### Mobile version
-![Final Result Mobile](finalResult/finalResultMobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Emerson-MM-Filho/Testimonials-grid-section)
+- Live Site URL: [Add live site URL here](https://emerson-mm-filho.github.io/Testimonials-grid-section/)
 
 ## My process
 
