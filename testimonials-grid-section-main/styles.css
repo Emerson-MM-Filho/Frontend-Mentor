@@ -19,6 +19,10 @@
 }
 
 main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
     padding: 15px;
     background-color: var(--Light-grayish-blue);
 }
@@ -89,8 +93,6 @@ section {
     margin: auto;
 
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
     grid-gap: 15px;
     grid-template-areas: "t01 t01 t02 t03"
                          "t04 t05 t05 t03";
